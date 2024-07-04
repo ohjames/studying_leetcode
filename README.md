@@ -4,3 +4,58 @@ Notes for technical interview
 ## Setup
 We will first break into algorithm categories and in the root dir, we will have a good summary with links to all of the algorithm pattern tips/tricks.
 
+## Patterns
+
+### Two Pointers
+
+### Fast & Slow Pointers
+
+### Sliding Window
+
+### Merging Intervals
+
+### Cyclic Sort
+
+### In-Place Reversal of a Linked List
+
+### Stack
+
+### Monotonic Stack
+
+### Hash Maps
+
+### Tree Breadth First Search
+
+### Tree Depth First Search
+
+### Graphs
+
+### Island (Matrix Traversal)
+
+### Two Heaps
+
+### Subsets
+
+### Modified Binary Search
+
+### Bitwise XOR
+
+### Top 'K' Elements
+
+### K-Way Merge
+
+### Greedy Algorithms
+
+### 0/1 Knapsack (Dynamic Programming)
+
+### Backtracking
+
+### Trie
+
+### Topological Sort (Graph)
+
+### Union Find
+
+### Ordered Set
+
+### Multi-Thread
