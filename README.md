@@ -6,13 +6,13 @@ We will first break into algorithm categories and in the root dir, we will have 
 
 ## Patterns
 
-### Two Pointers
+### 1. Two Pointers
 1. [Introduction](two-pointers/two-pointers.md)
 
-### Fast & Slow Pointers
+### 2. Fast & Slow Pointers
 1. [Introduction](fast-slow-pointers/fast-slow-pointers.md)
 
-### Sliding Window
+### 3. Sliding Window
 1. [Introduction](sliding-window/sliding-window.md)
 
 ### Merging Intervals
