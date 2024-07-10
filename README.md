@@ -15,7 +15,8 @@ We will first break into algorithm categories and in the root dir, we will have 
 ### 3. Sliding Window
 1. [Introduction](sliding-window/sliding-window.md)
 
-### Merging Intervals
+### 4, Merging Intervals
+1. [Introduction](merging-intervals/merging-intervals.md)
 
 ### Cyclic Sort
 
