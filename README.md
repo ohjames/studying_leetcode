@@ -15,10 +15,11 @@ We will first break into algorithm categories and in the root dir, we will have 
 ### 3. Sliding Window
 1. [Introduction](sliding-window/sliding-window.md)
 
-### 4, Merging Intervals
+### 4. Merging Intervals
 1. [Introduction](merging-intervals/merging-intervals.md)
 
-### Cyclic Sort
+### 5. Cyclic Sort
+1. [Introduction](cyclic-sort/cyclic-sort.md)
 
 ### In-Place Reversal of a Linked List
 
