@@ -21,46 +21,46 @@ We will first break into algorithm categories and in the root dir, we will have 
 ### 5. Cyclic Sort
 1. [Introduction](cyclic-sort/cyclic-sort.md)
 
-### In-Place Reversal of a Linked List
+### 6. In-Place Reversal of a Linked List
 
-### Stack
+### 7. Stack
 
-### Monotonic Stack
+### 8. Monotonic Stack
 
-### Hash Maps
+### 9. Hash Maps
 
-### Tree Breadth First Search
+### 10. Tree Breadth First Search
 
-### Tree Depth First Search
+### 11. Tree Depth First Search
 
-### Graphs
+### 12. Graphs
 
-### Island (Matrix Traversal)
+### 13. Island (Matrix Traversal)
 
-### Two Heaps
+### 14. Two Heaps
 
-### Subsets
+### 15. Subsets
 
-### Modified Binary Search
+### 16. Modified Binary Search
 
-### Bitwise XOR
+### 17. Bitwise XOR
 
-### Top 'K' Elements
+### 18. Top 'K' Elements
 
-### K-Way Merge
+### 19. K-Way Merge
 
-### Greedy Algorithms
+### 20. Greedy Algorithms
 
-### 0/1 Knapsack (Dynamic Programming)
+### 21. 0/1 Knapsack (Dynamic Programming)
 
-### Backtracking
+### 22. Backtracking
 
-### Trie
+### 23. Trie
 
-### Topological Sort (Graph)
+### 24. Topological Sort (Graph)
 
-### Union Find
+### 25. Union Find
 
-### Ordered Set
+### 26. Ordered Set
 
-### Multi-Thread
+### 27. Multi-Thread
