@@ -22,6 +22,7 @@ We will first break into algorithm categories and in the root dir, we will have 
 1. [Introduction](cyclic-sort/cyclic-sort.md)
 
 ### 6. In-Place Reversal of a Linked List
+1. [Introduction](inplace-reversal-linked-list/inplace-reversal-linkedlist.md)
 
 ### 7. Stack
 
