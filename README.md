@@ -25,14 +25,19 @@ We will first break into algorithm categories and in the root dir, we will have 
 1. [Introduction](inplace-reversal-linked-list/inplace-reversal-linkedlist.md)
 
 ### 7. Stack
+1. [Introduction](stack/stack.md)
 
 ### 8. Monotonic Stack
+1. [Introduction](monotonic-stack/monotonic-stack.md)
 
 ### 9. Hash Maps
+1. [Introduction](hash-maps/hash-maps.md)
 
 ### 10. Tree Breadth First Search
+1. [Introduction]
 
 ### 11. Tree Depth First Search
+1. [Introduction]
 
 ### 12. Graphs
 
