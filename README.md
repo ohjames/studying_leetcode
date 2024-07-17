@@ -2,7 +2,7 @@
 Notes for technical interview
 
 ## Setup
-We will first break into algorithm categories and in the root dir, we will have a good summary with links to all of the algorithm pattern tips/tricks.
+We will first break into patterns and in the root dir, we will have a good summary with links to all of the tips/tricks. Then we will add Neetcode afterwards. A [masterlist](master-list.md) of all the leetcode problems completed and organized afterwards by data structures.
 
 ## Patterns
 
