@@ -2,7 +2,7 @@
 Notes for technical interview
 
 ## Setup
-We will first break into patterns and in the root dir, we will have a good summary with links to all of the tips/tricks. Then we will add Neetcode afterwards. A [master list](master-list.md) of all the leetcode problems completed and organized afterwards by data structures.
+We will actually start with specific data structures and break into patterns via [Data structures/algorithm tech handbook](https://www.techinterviewhandbook.org/coding-interview-study-plan/) and then using [Neetcode](https://neetcode.io/roadmap) as hollistic reference. Then we will add Neetcode afterwards. A [master list](master-list.md) of all the leetcode problems completed and organized afterwards by data structures.
 
 <!-- TODO: Maybe re-do README structure and intro pages -->
 
