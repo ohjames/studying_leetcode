@@ -28,3 +28,42 @@ Only one valid answer exists.
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 
 '''
+
+import unittest
+
+def two_sum(nums, target):
+    for i in range(len(nums) - 1):
+        for j in range(i + 1, len(nums)):
+            if nums[i] + nums[j] == target:
+                return [i, j]
+
+class TestTwoSum(unittest.TestCase):
+    def test_example1(self):
+        nums = [2, 7, 11, 15]
+        target = 9
+        expected = [0, 1]
+        # Call the function that solves the problem
+        result = two_sum(nums, target)
+        # Assert that the result matches the expected output
+        self.assertEqual(result, expected)
+
+    def test_example2(self):
+        nums = [3, 2, 4]
+        target = 6
+        expected = [1, 2]
+        # Call the function that solves the problem
+        result = two_sum(nums, target)
+        # Assert that the result matches the expected output
+        self.assertEqual(result, expected)
+
+    def test_example3(self):
+        nums = [3, 3]
+        target = 6
+        expected = [0, 1]
+        # Call the function that solves the problem
+        result = two_sum(nums, target)
+        # Assert that the result matches the expected output
+        self.assertEqual(result, expected)
+
+if __name__ == '__main__':
+    unittest.main()
