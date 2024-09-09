@@ -9,7 +9,7 @@ We will actually start with specific data structures and break into patterns via
 ## Problem List
 
 ### Arrays
-1. [ ] [Two Sum](arrays/1.py)
+1. [ ] [Two Sum](arrays/1.py) <span style="color:green">Easy</span>
 2. [ ] [Best Time to Buy and Sell Stock](arrays/121.py)
 3. [ ] [Product of Array Except Self](arrays/238.py)
 4. [ ] [Maximum Subarray](arrays/53.py)
