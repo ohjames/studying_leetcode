@@ -6,6 +6,17 @@ We will actually start with specific data structures and break into patterns via
 
 <!-- TODO: Maybe re-do README structure and intro pages -->
 
+## Problem List
+
+### Arrays
+1. [ ] [Two Sum](arrays/1.py)
+2. [ ] [Best Time to Buy and Sell Stock](arrays/121.py)
+3. [ ] [Product of Array Except Self](arrays/238.py)
+4. [ ] [Maximum Subarray](arrays/53.py)
+5. [ ] [Valid Anagram](arrays/242.py)
+6. [ ] <span style="background-color:#90EE90">[Valid Palindrome](arrays/125.py)</span>
+
+
 ## Patterns
 
 ### 1. Two Pointers
