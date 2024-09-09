@@ -9,15 +9,15 @@ We will actually start with specific data structures and break into patterns via
 ## Problem List
 
 ### Arrays
-| Number | Completion | Problem | Difficulty |
-| :------: | :------: | :------: | :------: |
-| 1 | [ ] | [Two Sum](arrays/1.py) | ${\color{green}Easy}$ |
-
-2. [ ] [Best Time to Buy and Sell Stock](arrays/121.py)
-3. [ ] [Product of Array Except Self](arrays/238.py)
-4. [ ] [Maximum Subarray](arrays/53.py)
-5. [ ] [Valid Anagram](arrays/242.py)
-6. [ ] <span style="background-color:#90EE90">[Valid Palindrome](arrays/125.py)</span>
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 1 | [Two Sum](arrays/1.py) | ${\color{green}Easy}$ |
+| 121 | [Best Time to Buy and Sell Stock](arrays/121.py) | ${\color{green}Easy}$ | 
+| 238 | [Product of Array Except Self](arrays/238.py) | ${\color{orange}Medium}$ |
+| 53 | [Maximum Subarray](arrays/53.py) | ${\color{orange}Medium}$ |
+| 242 | [Valid Anagram](arrays/242.py) | ${\color{green}Easy}$ |
+| 125 | [Valid Palindrome](arrays/125.py) | ${\color{green}Easy}$ |
+| 3 | [Longest Substring Without Repeating Characters](arrays/3.py) | ${\color{orange}Medium}$ |
 
 
 ## Patterns
