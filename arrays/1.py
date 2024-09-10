@@ -34,10 +34,18 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 import unittest
 
 def two_sum(nums, target):
-    for i in range(len(nums) - 1):
-        for j in range(i + 1, len(nums)):
-            if nums[i] + nums[j] == target:
-                return [i, j]
+    num_dict = {}
+    for i, num in enumerate(nums):
+        complement = target - num
+        if complement in num_dict:
+            return [num_dict[complement], i]
+        num_dict[num] = i
+            
+# def two_sum(nums, target):
+#     for i in range(len(nums) - 1):
+#         for j in range(i + 1, len(nums)):
+#             if nums[i] + nums[j] == target:
+#                 return [i, j]
 
 class TestTwoSum(unittest.TestCase):
     def test_example1(self):
