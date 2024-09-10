@@ -19,6 +19,11 @@ We will actually start with specific data structures and break into patterns via
 | 125 | [Valid Palindrome](arrays/125.py) | ${\color{green}Easy}$ |
 | 3 | [Longest Substring Without Repeating Characters](arrays/3.py) | ${\color{orange}Medium}$ |
 
+### Hash Tables
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 1 | [Two Sum](arrays/1.py) | ${\color{green}Easy}$ |
+| 383 | [Ransom Note](hash-tables/383.py) | ${\color{green}Easy}$ |
 
 ## Patterns
 
