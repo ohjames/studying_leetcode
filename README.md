@@ -29,6 +29,7 @@ We will actually start with specific data structures and break into patterns via
 | LeetCode Number | Problem | Difficulty |
 | :------: | :------: | :------: |
 | 22 | [Generate Parenthesis](recursion/22.py) | ${\color{orange}Medium}$ |
+| 77 | [Combinations](recursion/77.py) | ${\color{orange}Medium}$ |
 
 ## Patterns
 
