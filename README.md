@@ -32,6 +32,11 @@ We will actually start with specific data structures and break into patterns via
 | 77 | [Combinations](recursion/77.py) | ${\color{orange}Medium}$ |
 | 78 | [Subsets](recursion/78.py) | ${\color{orange}Medium}$ |
 
+### Sorting and Searching
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 704 | [Binary Search](sorting-and-searching/704.py) | ${\color{green}Easy}$ |
+
 ## Patterns
 
 ### 1. Two Pointers
