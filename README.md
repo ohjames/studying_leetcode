@@ -36,6 +36,7 @@ We will actually start with specific data structures and break into patterns via
 | LeetCode Number | Problem | Difficulty |
 | :------: | :------: | :------: |
 | 704 | [Binary Search](sorting-and-searching/704.py) | ${\color{green}Easy}$ |
+| 33 | [Search in Rotated Sorted Array](sorting-and-searching/33.py) | ${\color{orange}Medium}$ |
 
 ## Patterns
 
