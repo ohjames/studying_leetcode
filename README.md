@@ -38,6 +38,11 @@ We will actually start with specific data structures and break into patterns via
 | 704 | [Binary Search](sorting-and-searching/704.py) | ${\color{green}Easy}$ |
 | 33 | [Search in Rotated Sorted Array](sorting-and-searching/33.py) | ${\color{orange}Medium}$ |
 
+### Matrices
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 73 | [Set Matrix Zeroes](matrices/73.py) | ${\color{orange}Medium}$ |
+
 ## Patterns
 
 ### 1. Two Pointers
