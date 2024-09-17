@@ -42,6 +42,7 @@ We will actually start with specific data structures and break into patterns via
 | LeetCode Number | Problem | Difficulty |
 | :------: | :------: | :------: |
 | 73 | [Set Matrix Zeroes](matrices/73.py) | ${\color{orange}Medium}$ |
+| 54 | [Spiral Matrix](matrices/54.py) | ${\color{orange}Medium}$ |
 
 ## Patterns
 
