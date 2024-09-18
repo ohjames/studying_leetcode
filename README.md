@@ -44,6 +44,11 @@ We will actually start with specific data structures and break into patterns via
 | 73 | [Set Matrix Zeroes](matrices/73.py) | ${\color{orange}Medium}$ |
 | 54 | [Spiral Matrix](matrices/54.py) | ${\color{orange}Medium}$ |
 
+### Linked Lists
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 206 | [Reverse Linked List](linked-lists/206.py) | ${\color{green}Easy}$ |
+
 ## Patterns
 
 ### 1. Two Pointers
