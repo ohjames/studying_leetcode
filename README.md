@@ -48,6 +48,7 @@ We will actually start with specific data structures and break into patterns via
 | LeetCode Number | Problem | Difficulty |
 | :------: | :------: | :------: |
 | 206 | [Reverse Linked List](linked-lists/206.py) | ${\color{green}Easy}$ |
+| 141 | [Linked List Cycle](linked-lists/141.py) | ${\color{green}Easy}$ |
 
 ## Patterns
 
