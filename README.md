@@ -50,6 +50,11 @@ We will actually start with specific data structures and break into patterns via
 | 206 | [Reverse Linked List](linked-lists/206.py) | ${\color{green}Easy}$ |
 | 141 | [Linked List Cycle](linked-lists/141.py) | ${\color{green}Easy}$ |
 
+### Queue
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 225 | [Implement Stack Using Queues](queues/225.py) | ${\color{green}Easy}$ |
+
 ## Patterns
 
 ### 1. Two Pointers
