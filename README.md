@@ -55,6 +55,11 @@ We will actually start with specific data structures and break into patterns via
 | :------: | :------: | :------: |
 | 225 | [Implement Stack Using Queues](queues/225.py) | ${\color{green}Easy}$ |
 
+### Stacks
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 20 | [Valid Parentheses](stacks/20.py) | ${\color{green}Easy}$ |
+
 ## Patterns
 
 ### 1. Two Pointers
