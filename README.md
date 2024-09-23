@@ -59,6 +59,8 @@ We will actually start with specific data structures and break into patterns via
 | LeetCode Number | Problem | Difficulty |
 | :------: | :------: | :------: |
 | 20 | [Valid Parentheses](stacks/20.py) | ${\color{green}Easy}$ |
+| 232 | [Implement Queue Using Stacks](stacks/232.py) | ${\color{green}Easy}$ |
+
 
 ## Patterns
 
