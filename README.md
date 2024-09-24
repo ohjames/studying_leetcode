@@ -61,6 +61,11 @@ We will actually start with specific data structures and break into patterns via
 | 20 | [Valid Parentheses](stacks/20.py) | ${\color{green}Easy}$ |
 | 232 | [Implement Queue Using Stacks](stacks/232.py) | ${\color{green}Easy}$ |
 
+### Intervals
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 56 | [Merge Intervals](intervals/56.py) | ${\color{orange}Medium}$ |
+
 
 ## Patterns
 
