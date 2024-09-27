@@ -71,6 +71,7 @@ We will actually start with specific data structures and break into patterns via
 | LeetCode Number | Problem | Difficulty |
 | :------: | :------: | :------: |
 | 104 | [Maximum Depth of Binary Tree](trees/104.py) | ${\color{green}Easy}$ |
+| 226 | [Invert Binary Tree](trees/226.py) | ${\color{green}Easy}$ |
 
 ## Patterns
 
