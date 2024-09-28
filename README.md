@@ -72,6 +72,12 @@ We will actually start with specific data structures and break into patterns via
 | :------: | :------: | :------: |
 | 104 | [Maximum Depth of Binary Tree](trees/104.py) | ${\color{green}Easy}$ |
 | 226 | [Invert Binary Tree](trees/226.py) | ${\color{green}Easy}$ |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](trees/235.py) | ${\color{orange}Medium}$ |
+
+### Graphs
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 200 | [Number of Islands](graphs/200.py) | ${\color{orange}Medium}$ |
 
 ## Patterns
 
