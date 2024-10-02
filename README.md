@@ -81,6 +81,11 @@ We will actually start with specific data structures and break into patterns via
 | 733 | [Flood Fill](graphs/733.py) | ${\color{green}Easy}$ |
 | 542 | [01 Matrix](graphs/542.py) | ${\color{orange}Medium}$ |
 
+### Heaps
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 23 | [Merge k Sorted Lists](heaps/23.py) | ${\color{Red}Hard}$ |
+
 ## Patterns
 
 ### 1. Two Pointers
