@@ -85,6 +85,7 @@ We will actually start with specific data structures and break into patterns via
 | LeetCode Number | Problem | Difficulty |
 | :------: | :------: | :------: |
 | 23 | [Merge k Sorted Lists](heaps/23.py) | ${\color{Red}Hard}$ |
+| 973 | [K Closest Points to Origin](heaps/973.py) | ${\color{orange}Medium}$ |
 
 ## Patterns
 
