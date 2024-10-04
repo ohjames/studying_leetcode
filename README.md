@@ -87,6 +87,11 @@ We will actually start with specific data structures and break into patterns via
 | 23 | [Merge k Sorted Lists](heaps/23.py) | ${\color{Red}Hard}$ |
 | 973 | [K Closest Points to Origin](heaps/973.py) | ${\color{orange}Medium}$ |
 
+### Tries
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 208 | [Implement Trie (Prefix Tree)](tries/208.py) | ${\color{orange}Medium}$ |
+
 ## Patterns
 
 ### 1. Two Pointers
