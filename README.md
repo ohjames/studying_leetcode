@@ -92,6 +92,11 @@ We will actually start with specific data structures and break into patterns via
 | :------: | :------: | :------: |
 | 208 | [Implement Trie (Prefix Tree)](tries/208.py) | ${\color{orange}Medium}$ |
 
+### Dynamic Programming
+| LeetCode Number | Problem | Difficulty |
+| :------: | :------: | :------: |
+| 70 | [Climbing Stairs](dynamic-programming/70.py) | ${\color{green}Easy}$ |
+
 ## Patterns
 
 ### 1. Two Pointers
