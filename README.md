@@ -96,6 +96,7 @@ We will actually start with specific data structures and break into patterns via
 | LeetCode Number | Problem | Difficulty |
 | :------: | :------: | :------: |
 | 70 | [Climbing Stairs](dynamic-programming/70.py) | ${\color{green}Easy}$ |
+| 322 | [Coin Change](dynamic-programming/322.py) | ${\color{orange}Medium}$ |
 
 ## Patterns
 
