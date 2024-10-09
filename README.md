@@ -18,6 +18,7 @@ We will actually start with specific data structures and break into patterns via
 | 242 | [Valid Anagram](arrays/242.py) | ${\color{green}Easy}$ |
 | 125 | [Valid Palindrome](arrays/125.py) | ${\color{green}Easy}$ |
 | 3 | [Longest Substring Without Repeating Characters](arrays/3.py) | ${\color{orange}Medium}$ |
+| 217 | [Contains Duplicate](arrays/217.py) | ${\color{green}Easy}$ |
 
 ### Hash Tables
 | LeetCode Number | Problem | Difficulty |
