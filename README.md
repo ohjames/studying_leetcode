@@ -19,6 +19,7 @@ We will actually start with specific data structures and break into patterns via
 | 125 | [Valid Palindrome](arrays/125.py) | ${\color{green}Easy}$ |
 | 3 | [Longest Substring Without Repeating Characters](arrays/3.py) | ${\color{orange}Medium}$ |
 | 217 | [Contains Duplicate](arrays/217.py) | ${\color{green}Easy}$ |
+| 152 | [Maximum Product Subarray](arrays/152.py) | ${\color{orange}Medium}$ |
 
 ### Hash Tables
 | LeetCode Number | Problem | Difficulty |
