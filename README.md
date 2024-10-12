@@ -22,6 +22,7 @@ We will actually start with specific data structures and break into patterns via
 | 152 | [Maximum Product Subarray](arrays/152.py) | ${\color{orange}Medium}$ |
 | 33 | [Search in Rotated Sorted Array](sorting-and-searching/33.py) | ${\color{orange}Medium}$ |
 | 15 | [3Sum](arrays/15.py) | ${\color{orange}Medium}$ |
+| 11 | [Container with Most Water](arrays/11.py) | ${\color{orange}Medium}$ |
 
 ### Hash Tables
 | LeetCode Number | Problem | Difficulty |
