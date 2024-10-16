@@ -26,6 +26,7 @@ We will actually start with specific data structures and break into patterns via
 | 239 | [Sliding Window Maximum](arrays/239.py) | ${\color{Red}Hard}$ |
 | 424 | [Longest Repeating Character Replacement](arrays/424.py) | ${\color{orange}Medium}$ |
 | 438 | [Find All Anagrams in a String](arrays/438.py) | ${\color{orange}Medium}$ |
+| 76 | [Minimum Window Substring](arrays/76.py) | ${\color{Red}Hard}$ |
 
 ### Hash Tables
 | LeetCode Number | Problem | Difficulty |
