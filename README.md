@@ -36,6 +36,8 @@ We will actually start with specific data structures and break into patterns via
 | :------: | :------: | :------: |
 | 1 | [Two Sum](arrays/1.py) | ${\color{green}Easy}$ |
 | 383 | [Ransom Note](hash-tables/383.py) | ${\color{green}Easy}$ |
+| 49 | [Group Anagrams](arrays/49.py) | ${\color{orange}Medium}$ |
+| 41 | [First Missing Positive](hash-tables/41.py) | ${\color{Red}Hard}$ |
 
 ### Recursion
 | LeetCode Number | Problem | Difficulty |
