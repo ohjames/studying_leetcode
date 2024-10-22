@@ -39,6 +39,7 @@ We will actually start with specific data structures and break into patterns via
 | 49 | [Group Anagrams](arrays/49.py) | ${\color{orange}Medium}$ |
 | 41 | [First Missing Positive](hash-tables/41.py) | ${\color{Red}Hard}$ |
 | 146 | [LRU Cache](hash-tables/146.py) | ${\color{orange}Medium}$ |
+| 432 | [All O' one Data Structure](hash-tables/432.py) | ${\color{Red}Hard}$ |
 
 ### Recursion
 | LeetCode Number | Problem | Difficulty |
