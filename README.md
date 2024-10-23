@@ -47,6 +47,7 @@ We will actually start with specific data structures and break into patterns via
 | 22 | [Generate Parenthesis](recursion/22.py) | ${\color{orange}Medium}$ |
 | 77 | [Combinations](recursion/77.py) | ${\color{orange}Medium}$ |
 | 78 | [Subsets](recursion/78.py) | ${\color{orange}Medium}$ |
+| 17 | [Letter Combinations of a Phone Number](recursion/17.py) | ${\color{orange}Medium}$ |
 
 ### Sorting and Searching
 | LeetCode Number | Problem | Difficulty |
