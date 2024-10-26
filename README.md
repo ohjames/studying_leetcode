@@ -50,6 +50,7 @@ We will actually start with specific data structures and break into patterns via
 | 17 | [Letter Combinations of a Phone Number](recursion/17.py) | ${\color{orange}Medium}$ |
 | 90 | [Subsets II](recursion/90.py) | ${\color{orange}Medium}$ |
 | 46 | [Permutations](recursion/46.py) | ${\color{orange}Medium}$ |
+| 247 | [Strobogrammatic Number II](recursion/247.py) | ${\color{orange}Medium}$ |
 
 ### Sorting and Searching
 | LeetCode Number | Problem | Difficulty |
