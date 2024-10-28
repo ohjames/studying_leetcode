@@ -59,6 +59,7 @@ We will actually start with specific data structures and break into patterns via
 | 704 | [Binary Search](sorting-and-searching/704.py) | ${\color{green}Easy}$ |
 | 33 | [Search in Rotated Sorted Array](sorting-and-searching/33.py) | ${\color{orange}Medium}$ |
 | 378 | [Kth Smallest Element in a Sorted Matrix](sorting-and-searching/378.py) | ${\color{orange}Medium}$ |
+| 74 | [Search a 2D Matrix](sorting-and-searching/74.py) | ${\color{orange}Medium}$ |
 
 ### Matrices
 | LeetCode Number | Problem | Difficulty |
