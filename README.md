@@ -62,6 +62,7 @@ We will actually start with specific data structures and break into patterns via
 | 74 | [Search a 2D Matrix](sorting-and-searching/74.py) | ${\color{orange}Medium}$ |
 | 215 | [Kth Largest Element in an Array](sorting-and-searching/215.py) | ${\color{orange}Medium}$ |
 | 153 | [Find Minimum in Rotated Sorted Array](sorting-and-searching/153.py) | ${\color{orange}Medium}$ |
+| 4 | [Median of Two Sorted Arrays](sorting-and-searching/4.py) | ${\color{Red}Hard}$ |
 
 ### Matrices
 | LeetCode Number | Problem | Difficulty |
