@@ -79,6 +79,7 @@ We will actually start with specific data structures and break into patterns via
 | 141 | [Linked List Cycle](linked-lists/141.py) | ${\color{green}Easy}$ |
 | 21 | [Merge Two Sorted Lists](linked-lists/21.py) | ${\color{green}Easy}$ |
 | 23 | [Merge K Sorted Lists](linked-lists/23.py) | ${\color{Red}Hard}$ |
+| 19 | [Remove Nth Node from End of List](linked-lists/19.py) | ${\color{orange}Medium}$ |
 
 ### Queue
 | LeetCode Number | Problem | Difficulty |
