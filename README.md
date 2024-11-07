@@ -88,6 +88,7 @@ We will actually start with specific data structures and break into patterns via
 | 225 | [Implement Stack Using Queues](queues/225.py) | ${\color{green}Easy}$ |
 | 232 | [Implement Queue Using Stacks](stacks/232.py) | ${\color{green}Easy}$ |
 | 622 | [Design Circular Queue](queues/622.py) | ${\color{orange}Medium}$ |
+| 362 | [Design Hit Counter](queues/362.py) | ${\color{orange}Medium}$ |
 
 ### Stacks
 | LeetCode Number | Problem | Difficulty |
