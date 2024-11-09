@@ -95,6 +95,8 @@ We will actually start with specific data structures and break into patterns via
 | :------: | :------: | :------: |
 | 20 | [Valid Parentheses](stacks/20.py) | ${\color{green}Easy}$ |
 | 232 | [Implement Queue Using Stacks](stacks/232.py) | ${\color{green}Easy}$ |
+| 225 | [Implement Stack Using Queues](queues/225.py) | ${\color{green}Easy}$ |
+| 155 | [Min Stack](stacks/155.py) | ${\color{orange}Medium}$ |
 
 ### Intervals
 | LeetCode Number | Problem | Difficulty |
