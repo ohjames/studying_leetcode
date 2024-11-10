@@ -97,6 +97,7 @@ We will actually start with specific data structures and break into patterns via
 | 232 | [Implement Queue Using Stacks](stacks/232.py) | ${\color{green}Easy}$ |
 | 225 | [Implement Stack Using Queues](queues/225.py) | ${\color{green}Easy}$ |
 | 155 | [Min Stack](stacks/155.py) | ${\color{orange}Medium}$ |
+| 735 | [Asteroid Collision](stacks/735.py) | ${\color{orange}Medium}$ |
 
 ### Intervals
 | LeetCode Number | Problem | Difficulty |
