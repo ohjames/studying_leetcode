@@ -99,6 +99,7 @@ We will actually start with specific data structures and break into patterns via
 | 155 | [Min Stack](stacks/155.py) | ${\color{orange}Medium}$ |
 | 735 | [Asteroid Collision](stacks/735.py) | ${\color{orange}Medium}$ |
 | 150 | [Evaluate Reverse Polish Notation](stacks/150.py) | ${\color{orange}Medium}$ |
+| 224 | [Basic Calculator](stacks/224.py) | ${\color{Red}Hard}$ |
 
 ### Intervals
 | LeetCode Number | Problem | Difficulty |
