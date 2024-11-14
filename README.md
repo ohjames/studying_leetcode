@@ -101,6 +101,7 @@ We will actually start with specific data structures and break into patterns via
 | 150 | [Evaluate Reverse Polish Notation](stacks/150.py) | ${\color{orange}Medium}$ |
 | 224 | [Basic Calculator](stacks/224.py) | ${\color{Red}Hard}$ |
 | 227 | [Basic Calculator II](stacks/227.py) | ${\color{orange}Medium}$ |
+| 739 | [Daily Temperatures](stacks/739.py) | ${\color{orange}Medium}$ |
 
 ### Intervals
 | LeetCode Number | Problem | Difficulty |
