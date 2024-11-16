@@ -103,6 +103,7 @@ We will actually start with specific data structures and break into patterns via
 | 227 | [Basic Calculator II](stacks/227.py) | ${\color{orange}Medium}$ |
 | 739 | [Daily Temperatures](stacks/739.py) | ${\color{orange}Medium}$ |
 | 42 | [Trapping Rain Water](stacks/42.py) | ${\color{Red}Hard}$ |
+| 84 | [Largest Rectangle in Histogram](stacks/84.py) | ${\color{Red}Hard}$ |
 
 ### Intervals
 | LeetCode Number | Problem | Difficulty |
