@@ -111,6 +111,7 @@ We will actually start with specific data structures and break into patterns via
 | 56 | [Merge Intervals](intervals/56.py) | ${\color{orange}Medium}$ |
 | 57 | [Insert Interval](intervals/57.py) | ${\color{orange}Medium}$ |
 | 435 | [Non-Overlapping Intervals](intervals/435.py) | ${\color{orange}Medium}$ |
+| 252 | [Meeting Rooms](intervals/252.py) | ${\color{green}Easy}$ |
 
 ### Trees
 | LeetCode Number | Problem | Difficulty |
