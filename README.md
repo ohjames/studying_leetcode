@@ -112,6 +112,7 @@ We will actually start with specific data structures and break into patterns via
 | 57 | [Insert Interval](intervals/57.py) | ${\color{orange}Medium}$ |
 | 435 | [Non-Overlapping Intervals](intervals/435.py) | ${\color{orange}Medium}$ |
 | 252 | [Meeting Rooms](intervals/252.py) | ${\color{green}Easy}$ |
+| 253 | [Meeting Rooms II](intervals/253.py) | ${\color{orange}Medium}$ |
 
 ### Trees
 | LeetCode Number | Problem | Difficulty |
@@ -158,7 +159,7 @@ We will actually start with specific data structures and break into patterns via
 1. [Introduction](sliding-window/sliding-window.md)
 
 ### 4. Merging Intervals
-1. [Introduction](merging-intervals/merging-intervals.md)
+~~1. [Introduction](merging-intervals/merging-intervals.md)~~
 
 ### 5. Cyclic Sort
 1. [Introduction](cyclic-sort/cyclic-sort.md)
