@@ -121,6 +121,7 @@ We will actually start with specific data structures and break into patterns via
 | 226 | [Invert Binary Tree](trees/226.py) | ${\color{green}Easy}$ |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](trees/235.py) | ${\color{orange}Medium}$ |
 | 100 | [Same Tree](trees/100.py) | ${\color{green}Easy}$ |
+| 124 | [Binary Tree Maximum Path Sum](trees/124.py) | ${\color{Red}Hard}$ |
 
 ### Graphs
 | LeetCode Number | Problem | Difficulty |
