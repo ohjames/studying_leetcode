@@ -123,6 +123,7 @@ We will actually start with specific data structures and break into patterns via
 | 100 | [Same Tree](trees/100.py) | ${\color{green}Easy}$ |
 | 124 | [Binary Tree Maximum Path Sum](trees/124.py) | ${\color{Red}Hard}$ |
 | 102 | [Binary Tree Level Order Traversal](trees/102.py) | ${\color{orange}Medium}$ |
+| 236 | [Lowest Common Ancestor of a Binary Tree](trees/236.py) | ${\color{orange}Medium}$ |
 
 ### Graphs
 | LeetCode Number | Problem | Difficulty |
